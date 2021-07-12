@@ -41,7 +41,7 @@ No curso de CSS Avançado – Posicionamento você irá aprender a partir dos fu
 
 Serão criados 3 projetos diferentes durante o curso. Cada um dos projetos será codificado utilizando 4 maneiras diferentes. A primeira da forma mais pura possível, definindo width’s e height’s, a segunda com um sistema de grid pré definido, a terceira com o Flexbox e por último usando o Bootstrap.
 
-#### ScreenShots:
+#### Screenshots:
 
 <p align=center >
   <img height="290px"  src="./img/home-desktop.png"> &nbsp; &nbsp; 
