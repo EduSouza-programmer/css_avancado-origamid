@@ -44,15 +44,16 @@ Serão criados 3 projetos diferentes durante o curso. Cada um dos projetos será
 #### ScreenShots:
 
 <p align=center >
-  <img height="300px"  src="./assets/home_desktop.png"> &nbsp; &nbsp; 
-  <img height="320px" src="./assets/mobile.png">
+  <img height="300px"  src="./img/home-desktop.png"> &nbsp; &nbsp; 
+  <img height="320px" src="./img/mobile.png">
 </p>
 
 ## :postbox: Entrega
 
 #### Concluido :clipboard:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/web_design_completo-origamid/).
+Acima, nos arquivos você encontra as quatros formas de estilos css implementas o/.
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_avancado-origamid/).
 
 # 
 ## :unlock: Licença
