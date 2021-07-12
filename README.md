@@ -44,7 +44,7 @@ Serão criados 3 projetos diferentes durante o curso. Cada um dos projetos será
 #### ScreenShots:
 
 <p align=center >
-  <img height="300px"  src="./img/home-desktop.png"> &nbsp; &nbsp; 
+  <img height="290px"  src="./img/home-desktop.png"> &nbsp; &nbsp; 
   <img height="320px" src="./img/mobile.png">
 </p>
 
