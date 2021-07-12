@@ -1,0 +1,72 @@
+/*
+  * Responsivo - Breakpoints:
+  * acima de 960
+  * entre 740 e 960
+  * abaixo de 739
+  obs: 'only screen' significa que eu só quero essa quebra para tela do dispositivo, e não para impressões por exemplo
+*/
+
+/* Reset */
+body, h1, h2, h3, p, ul{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #252525;
+
+}
+* {
+  box-sizing: border-box; /* mantem o width definido sem adicionar mais a ele */
+}
+/* Menu */
+.menu{
+  background: #252525;
+  padding: 20px 0px;
+  height: 100vh;
+}
+.menu-container{
+  max-width: 960px;
+  margin: 0px auto;
+}
+.menu-container::after, .menu-container::before{
+  /* clearfix */
+  content: '';
+  display: table;
+  clear: both;
+}
+.menu-logo{
+  display: block;
+  float: left;
+  margin-left: 10px;
+}
+.menu-nav{
+  float: right;
+  margin-right: 10px;
+}
+.menu-nav li{
+  display: inline-block;
+}
+.menu-nav a{
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.125em; /* 18(fonte)/16(base) = 1.125 */
+}
+/* Responsivo - Menu */
+@media (max-width: 739px){
+  .menu-logo{
+    display: block;
+    float: none; /* para poder o text-align funcionar */
+    margin: 0px;
+  }
+  .menu{
+    text-align: center; /* centralizar os itens do menu */
+  }
+  .menu-nav{
+    float: none; /* tirei o float */
+    clear: both; /* limpar a flutuação */
+  }
+}
+
