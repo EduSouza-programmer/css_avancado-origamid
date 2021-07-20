@@ -69,7 +69,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :postbox: Entrega
 
-#### Concluido :clipboard:
+#### Concluído :clipboard:
 
 Acima, nos arquivos você encontra as quatros formas de estilos css implementas o/.
 Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_avancado-origamid/).
